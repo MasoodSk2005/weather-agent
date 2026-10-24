@@ -9,7 +9,7 @@ A production-ready, pure-Python orchestration agent built from scratch using the
 - **Execution Trace State Tracking:** Outputs a granular console trace detailing inputs, arguments, and intermediate step returns.
 
 ## Tech Stack
-- **Language:** Python 3.9+
+- **Language:** Python
 - **LLM Engine:** Google AI Studio (`google-genai`, `gemini-2.5-flash`)
 - **Data Layer:** Pandas
 
